@@ -15,7 +15,7 @@
         <!-- {{ $filters.truncateWords(meal.strInstructions, 20) }} -->
       </p>
       <div class="flex items-center justify-between">
-        <YouTubeButton :href="meal.strYoutube">Youtube</YouTubeButton> />
+        <YouTubeButton :href="meal.strYoutube">Youtube</YouTubeButton> 
       </div>
     </div>
   </div>
